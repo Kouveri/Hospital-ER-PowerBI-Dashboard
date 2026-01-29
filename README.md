@@ -1,6 +1,3 @@
-# Hospital-ER-PowerBI-Dashboard
-Interactive Power BI dashboard analyzing hospital emergency room operations, patient flow, wait time, satisfaction, and admissions.
-
 # 🏥 Hospital Emergency Room Performance Dashboard (Power BI)
 
 ## 📌 Project Overview
